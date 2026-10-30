@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-30",
-  "note": "service が theater の行は劇場公開（映画.comの公開予定表から作成。日本の公開日が確定しているものだけ。再公開・仮題・日付が食い違うものは入れていない）。それ以外のserviceは各配信サービスの2026年10月の配信一覧。title=一覧にある作品名、q=TMDB検索用の言葉、new=true は新シーズンや独占配信など（作品が古くても新作として出す）",
+  "note": "service が theater の行は劇場公開（映画.comの公開予定表から作成。日本の公開日が確定しているものだけ。再公開・仮題・日付が食い違うものは入れていない）。それ以外のserviceは各配信サービスの2026年10月の配信一覧。title=一覧にある作品名、q=TMDB検索用の言葉、new=true は新シーズンや独占配信など（作品が古くても新作として出す）。rent=true は見放題ではなくレンタル（別料金）の配信",
   "sources": [
     "https://ciatr.jp/topics/339507",
     "https://ciatr.jp/topics/339554",
@@ -15,7 +15,8 @@
     "https://eiga.com/coming/202612/",
     "https://eiga.com/coming/202701/",
     "Disney+ 公式「10月後半の新着作品」（10/16〜10/31）",
-    "Prime Video 公式「2026年11月 配信ラインナップ」（Ninaさん提供の画像）"
+    "Prime Video 公式「2026年11月 配信ラインナップ」（Ninaさん提供の画像）",
+    "U-NEXT 公式「11月 LINE UP」（2026年10月30日時点、Ninaさん提供の画像）"
   ],
   "entries": [
     {"service":"netflix","kind":"movie","title":"パディントン 消えた黄金郷の秘密","date":"2026-10-01"},
@@ -114,6 +115,26 @@
     {"service":"unext","kind":"movie","title":"そこにきみはいて","date":"2026-10-23"},
     {"service":"unext","kind":"movie","title":"もしも徳川家康が総理大臣になったら","date":"2026-10-24"},
     {"service":"unext","kind":"movie","title":"PEACOCK／ピーコック","q":"ピーコック","date":"2026-10-28"},
+    {"service":"unext","kind":"movie","title":"入国審査","q":"Upon Entry","date":"2026-11-01","new":true},
+    {"service":"unext","kind":"movie","title":"犯罪都市 NO WAY OUT","q":"The Roundup: No Way Out","date":"2026-11-01","new":true},
+    {"service":"unext","kind":"movie","title":"四月の余白","date":"2026-11-01","rent":true},
+    {"service":"unext","kind":"movie","title":"シンシン アンド ザ マウス／SINSIN AND THE MOUSE","q":"シンシン アンド ザ マウス","date":"2026-11-01","rent":true},
+    {"service":"unext","kind":"tv","title":"パズル作家ルートヴィヒ 謎は解くためにある","q":"Ludwig","date":"2026-11-01"},
+    {"service":"unext","kind":"tv","title":"ペイシェンス ヨーク警察文書係の事件録","q":"Patience","date":"2026-11-01"},
+    {"service":"unext","kind":"movie","title":"死ねばいいのに","date":"2026-11-03","rent":true},
+    {"service":"unext","kind":"movie","title":"口に関するアンケート","date":"2026-11-04","rent":true},
+    {"service":"unext","kind":"movie","title":"黒牢城","date":"2026-11-06","rent":true},
+    {"service":"unext","kind":"tv","title":"お姉さんは僕の彼女2","q":"お姉さんは僕の彼女","date":"2026-11-06"},
+    {"service":"unext","kind":"movie","title":"大統領のケーキ","q":"The President's Cake","date":"2026-11-10","rent":true},
+    {"service":"unext","kind":"tv","title":"熱いさよなら","date":"2026-11-11"},
+    {"service":"unext","kind":"movie","title":"ババンババンバンバンパイア","date":"2026-11-15","rent":true},
+    {"service":"unext","kind":"movie","title":"バレリーナ：The World of John Wick","q":"From the World of John Wick: Ballerina","date":"2026-11-18","rent":true},
+    {"service":"unext","kind":"movie","title":"君は映画","date":"2026-11-18","rent":true},
+    {"service":"unext","kind":"movie","title":"箱の中の羊","date":"2026-11-18","rent":true},
+    {"service":"unext","kind":"tv","title":"フロム -閉ざされた街- シーズン4","q":"From","date":"2026-11-20","new":true},
+    {"service":"unext","kind":"movie","title":"#拡散","q":"拡散","date":"2026-11-25","rent":true},
+    {"service":"unext","kind":"movie","title":"映画 仮面ライダーゼッツ さよならのミッション","q":"仮面ライダーゼッツ","date":"2026-11-25","rent":true},
+    {"service":"unext","kind":"movie","title":"盤上の向日葵","date":"2026-11-27"},
 
     {"service":"theater","kind":"movie","title":"ALWAYS LALISA","date":"2026-10-12"},
     {"service":"theater","kind":"movie","title":"ピエロ・パニック","date":"2026-10-12"},
