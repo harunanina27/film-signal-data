@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30",
-  "note": "service が theater の行は劇場公開（映画.comの公開予定表から作成。日本の公開日が確定しているものだけ。再公開・仮題・日付が食い違うものは入れていない）。それ以外のserviceは各配信サービスの2026年10月の配信一覧。title=一覧にある作品名、q=TMDB検索用の言葉、new=true は新シーズンや独占配信など（作品が古くても新作として出す）。rent=true は見放題ではなくレンタル（別料金）の配信",
+  "updated": "2026-11-01",
+  "note": "service が theater の行は劇場公開（映画.comの公開予定表から作成。日本の公開日が確定しているものだけ。再公開・仮題・日付が食い違うものは入れていない）。それ以外のserviceは各配信サービスの2026年10月の配信一覧。title=一覧にある作品名、q=TMDB検索用の言葉、new=true は新シーズンや独占配信など（作品が古くても新作として出す）。rent=true は見放題ではなくレンタル（別料金）の配信。year は同じ題名の別作品と取り違えないためのTMDB検索の公開年",
   "sources": [
     "https://ciatr.jp/topics/339507",
     "https://ciatr.jp/topics/339554",
@@ -16,7 +16,9 @@
     "https://eiga.com/coming/202701/",
     "Disney+ 公式「10月後半の新着作品」（10/16〜10/31）",
     "Prime Video 公式「2026年11月 配信ラインナップ」（Ninaさん提供の画像）",
-    "U-NEXT 公式「11月 LINE UP」（2026年10月30日時点、Ninaさん提供の画像）"
+    "U-NEXT 公式「11月 LINE UP」（2026年10月30日時点、Ninaさん提供の画像）",
+    "https://www.disneyplus.com/ja-jp/explore/articles/new-to-disney-plus",
+    "https://uzurea.net/disneyplus-11-2026/"
   ],
   "entries": [
     {"service":"netflix","kind":"movie","title":"パディントン 消えた黄金郷の秘密","date":"2026-10-01"},
@@ -81,6 +83,20 @@
     {"service":"disney","kind":"tv","title":"私を震えさせて","date":"2026-10-22"},
     {"service":"disney","kind":"tv","title":"ザ・モブ","date":"2026-10-26"},
     {"service":"disney","kind":"tv","title":"ようこそ！クリッター・フィクサー動物病院へ","q":"Critter Fixers: Country Vets","date":"2026-10-28","new":true},
+    {"service":"disney","kind":"tv","title":"再婚承認を要求します","q":"The Remarried Empress","date":"2026-11-04","year":2026},
+    {"service":"disney","kind":"tv","title":"オール・イズ・フェア 女神たちの法廷 シーズン2","q":"All's Fair","date":"2026-11-04","new":true},
+    {"service":"disney","kind":"movie","title":"楽しいマーベルのクリスマス・キャロル","date":"2026-11-07","year":2026},
+    {"service":"disney","kind":"movie","title":"レディ オア ノット２","q":"Ready or Not 2: Here I Come","date":"2026-11-13","year":2026},
+    {"service":"disney","kind":"movie","title":"プラウドファミリーのウィズマス","date":"2026-11-14","year":2026},
+    {"service":"disney","kind":"tv","title":"エクスペディション・オーシャン","date":"2026-11-14","year":2026},
+    {"service":"disney","kind":"movie","title":"モアナと伝説の海（実写版）","q":"Moana","date":"2026-11-18","year":2026},
+    {"service":"disney","kind":"tv","title":"ウィーン・ゲーム","date":"2026-11-18","year":2026},
+    {"service":"disney","kind":"tv","title":"パーシー・ジャクソンとオリンポスの神々 シーズン3","q":"Percy Jackson and the Olympians","date":"2026-11-20","new":true},
+    {"service":"disney","kind":"movie","title":"ゲット・ヒュージ：ルックスマキシング・トゥ・デス","date":"2026-11-25","year":2026},
+    {"service":"disney","kind":"tv","title":"探偵R・J・デッカー シーズン2","q":"R.J. Decker","date":"2026-11-25","new":true},
+    {"service":"disney","kind":"tv","title":"グレイズ・アナトミー シーズン22","q":"Grey's Anatomy","date":"2026-11-25","new":true},
+    {"service":"disney","kind":"movie","title":"ミッキーのホーム・アローン","date":"2026-11-27","year":2026},
+    {"service":"disney","kind":"movie","title":"ダッシャーと魔法のクリスマス","date":"2026-11-28","year":2026},
     {"service":"hulu","kind":"movie","title":"I AM JAM","date":"2026-10-01"},
     {"service":"hulu","kind":"movie","title":"映画 イチケイのカラス","q":"イチケイのカラス","date":"2026-10-01"},
     {"service":"hulu","kind":"movie","title":"とりつくしま","date":"2026-10-03"},
